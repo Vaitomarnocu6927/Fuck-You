@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BALLER_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BALLER_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BALLER_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BALLER_UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "BALLER_UP",
+			"indices": [
+				8,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				50
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": [
+				8,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				-30
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "BALLER_DOWN",
+			"indices": [
+				8,
+				8
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-23,
+				-22
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "BALLER_RIGHT",
+			"indices": [
+				8,
+				8
+			]
+		},
+		{
+			"offsets": [
+				43,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "THROW",
+			"loop": false,
+			"name": "BALLER_THROW"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BALLER",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "baller",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		20,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
