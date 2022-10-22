@@ -1,0 +1,32 @@
+{
+	"storyName": "V.S BALLER",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "cliff",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"ballermenu",
+		"bf_red",
+		"gf_red"
+	],
+	"songs": [
+		[
+			"ballin",
+			"baller",
+			[
+				238,
+				21,
+				54
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Baller Week",
+	"hiddenUntilUnlocked": false
+}
