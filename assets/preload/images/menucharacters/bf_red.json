@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "BF idle dance",
+	"idle_anim": "BF idle dance white",
+	"position": [
+		58,
+		1
+	],
+	"scale": 0.8,
+	"image": "red_bf"
+}

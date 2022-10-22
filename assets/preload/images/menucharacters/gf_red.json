@@ -1,0 +1,10 @@
+{
+	"idle_anim": "GF Dancing Beat WHITE",
+	"confirm_anim": "GF Dancing Beat WHITE",
+	"position": [
+		184,
+		141
+	],
+	"scale": 0.48,
+	"image": "red_gf"
+}
